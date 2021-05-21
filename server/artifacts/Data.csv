@@ -1,0 +1,14 @@
+location,area,bhk,bath,type,prediction
+mehrauli,1000.0,3,4,Apartment,167.22
+mehrauli,1000.0,3,4,Builder,142.32
+hauz khas,1500.0,3,5,Apartment,373.63
+alaknanda,1000.0,3,3,Apartment,187.17
+alaknanda,1000.0,3,3,Builder,154.07
+alaknanda,1000.0,3,3,Builder,154.07
+alaknanda,1000.0,4,4,Builder,224.87
+safdarjung enclave,1000.0,4,4,Builder,487.26
+other,1000.0,4,4,Builder,215.67
+punjabi bagh,1000.0,4,4,Builder,279.48
+hauz khas,1000.0,4,4,Builder,457.77
+alaknanda,2000.0,2,3,Apartment,217.0
+alaknanda,1000.0,1,2,Apartment,101.99
